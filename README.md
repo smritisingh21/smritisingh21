@@ -2,9 +2,9 @@
 
 ### 🧠 About Me
 - 💡 Building beautiful & functional web apps.
-- 🌱 Currently learning **React + Node.js**
-- 💬 Ask me about **Frontend Development**
-- ⚡ Fun fact: I drink more chai than water 🍵
+- 🌱 Currently learning Backend development using Nodejs.
+- Chai-person in the summers , coffee-person in the winters.
+  ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,react,nodejs,nextjs,typescript,git,github,vscode" />
 </p>
