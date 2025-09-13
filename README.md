@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20There!%20I'm%20Smritii%20👩‍💻&fontSize=40&fontAlignY=35&animation=twinkling" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20There!%20I'm%20Smritii%20👩‍💻&fontSize=40&fontAlignY=35&animation=twinkling" /> -->
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/smritisingh21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77676&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things+🌱" />
+<!--     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77676&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things+🌱" /> -->
   </a>
 </p>
 
