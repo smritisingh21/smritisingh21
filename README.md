@@ -1,10 +1,9 @@
 
 
-### 🧠 About Me
 - 💡 Building beautiful & functional web apps.
 - 🌱 Currently learning Backend development using Nodejs.
-- Chai-person in the summers , coffee-person in the winters.
-  ---
+- ☕️ Chai-person in  summers , coffee-person in winters.
+- 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,react,nodejs,nextjs,typescript,git,github,vscode" />
 </p>
