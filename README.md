@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/smritisingh21">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77676&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Tech+Explorer+🚀;Always+Learning+New+Things+🌱" />
   </a>
 </p>
@@ -27,15 +27,13 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smritisingh21&show_icons=true&theme=radical" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=smritisingh21&show_icons=true&theme=radical" height="150" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smritisingh21&theme=radical" height="150" />
 </p>
 
 ---
 
-### 🌈 Fun Stuff
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smritisingh21&theme=react-dark&hide_border=true&area=true" />
 </p>
