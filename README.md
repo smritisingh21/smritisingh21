@@ -2,8 +2,7 @@
 
 - 💡 Building beautiful & functional web apps.
 - 🌱 Currently learning Backend development using Nodejs.
-- ☕️ Chai-person in  summers , coffee-person in winters.
-- 
+   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,react,nodejs,nextjs,typescript,git,github,vscode" />
 </p>
