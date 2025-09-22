@@ -1,12 +1,12 @@
-
+- Developer | Engineer-to-be
 - Building seamless functional web apps.
 - Currently learning Backend development using Nodejs.
    
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,react,nodejs,nextjs,typescript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,figma,tailwindcss,js,python,java,react,nodejs,expressjs,mongodb,redis,docker,nextjs,typescript,git" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smritisingh21&show_icons=true&theme=radical" height="170" />
