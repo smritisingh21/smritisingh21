@@ -1,6 +1,9 @@
 - Developer | Engineer-to-be
 - Building seamless functional web apps.
-- Currently learning Backend development using Nodejs.
+ <br/>
+
+<p align="center"><b>" At the end, it all comes down to figuring out and making things work. "</b></p>
+<br/>
    
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,figma,tailwindcss,js,python,java,react,nodejs,expressjs,mongodb,redis,docker,nextjs,typescript,git" />
