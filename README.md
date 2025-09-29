@@ -1,5 +1,4 @@
-- Developer | Engineer-to-be
-- Building seamless functional web apps.
+
  <br/>
 
 <p align="center"><b>" At the end, it all comes down to figuring out and making things work. "</b></p>
