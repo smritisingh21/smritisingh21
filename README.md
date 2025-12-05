@@ -5,7 +5,7 @@
 <br/>
    
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,figma,tailwindcss,js,python,java,react,nodejs,expressjs,mongodb,redis,docker,nextjs,typescript,git" />
+  <img src="https://skillicons.dev/icons?i=html,figma,tailwindcss,js,python,java,react,nodejs,expressjs,mongodb,redis,git" />
 </p>
 
 
