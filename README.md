@@ -1,7 +1,7 @@
 
  <br/>
 
-<p align="center"><b>" At the end, it all comes down to figuring out and making things work. "</b></p>
+<p align="center"><b>" Figuring out and making things work. Always found with my laptop :)"</b></p>
 <br/>
    
 <p align="center">
