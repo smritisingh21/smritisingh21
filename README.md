@@ -5,7 +5,7 @@ I’m a Computer Science student ( graduating 2027) who enjoys building real-wor
 - Backend fundamentals (Node.js, Express)
 - System thinking (APIs, auth, data flow)
 - DSA (pattern-based problem solving)
-📍 Bangalore, India
+
 
 ## 🤝 Open to
 
