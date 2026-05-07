@@ -4,12 +4,16 @@
 I’m a Computer Science student ( graduating 2027) who enjoys building real-world applications and understanding how things work internally.
 - Backend fundamentals (Node.js, Express)
 - System thinking (APIs, auth, data flow)
-- DSA (pattern-based problem solving)
+- Database internals
+- open source software
+- UIUX
+  
 
 
 ## 🤝 Open to
 
-- Internships (Full Stack / Backend)  
+- Internships (Full Stack / Backend)
+- Part-time/Full-time roles
 - Open Source Collaboration  
 
 
@@ -18,6 +22,7 @@ I’m a Computer Science student ( graduating 2027) who enjoys building real-wor
 - Contribute to meaningful open source  
 - Build production-level apps  
 - Strengthen backend & system design
+- Understand and contribute to tech ecosystem
   
  <br/>
 
